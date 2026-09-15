@@ -1,0 +1,62 @@
+body {
+    font-family: 'lato', sans-serif;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.header {
+    background: #7bafd4;
+    color: white;
+}
+
+.header h1 {
+    text-align: center;
+    font-size: 40px;
+    text-indent: 20px;
+}
+
+a {
+    color: #333;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #7bafd4;
+}
+
+a:active {
+    color: red;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul.main-menu {
+    background: #f4f4f4;
+    text-indent: 10px;
+}
+
+p.lead {
+    font-size: 20px;
+    color: #7bafd4 ;
+    font-weight: bold;
+    padding-left: 10px;
+}
+
+p.features {
+    font-size: 20px;
+    padding-left: -20px;
+    text-align: left;
+}
+
+p {
+    text-indent: 20px;
+    padding-right: 10px;
+}
+
+p.source a {
+    color: #7bafd4;
+    padding-left: 10px;
+}
